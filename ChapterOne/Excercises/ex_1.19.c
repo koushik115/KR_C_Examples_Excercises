@@ -42,4 +42,4 @@ void reverse(char line[]) {
         i++; j--;
     }
 
-    }
+}
